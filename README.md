@@ -9,13 +9,16 @@ This project was developed as part of our **Third Year Engineering Academic Proj
 
 ## 🚀 Features
 
-- 🌍 View and explore a wide range of tours  
-- 🔍 Search tours by location, price, or category  
-- 📆 Book tours with real-time status  
-- 🔐 User authentication with JWT  
-- 🛠 Admin dashboard to manage tours and bookings  
-- 📩 Contact form and newsletter subscription  
-- 📱 Responsive design for mobile and desktop  
+## ✨ Features
+
+- 🌍 **Browse Tours** – Explore a wide range of exciting tours across multiple destinations  
+- 🔍 **Smart Search** – Filter tours by location, price range, and category  
+- 📆 **Easy Booking** – Book tours with real-time availability updates  
+- 🔐 **Secure Authentication** – JWT-based user login and signup system  
+- 🛠 **Admin Dashboard** – Manage tours, bookings, and users efficiently  
+- 📩 **Stay Connected** – Contact form and newsletter subscription support  
+- 📱 **Responsive UI** – Optimized for both mobile and desktop devices  
+  
 
 ---
 
